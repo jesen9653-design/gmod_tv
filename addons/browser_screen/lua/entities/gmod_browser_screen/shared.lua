@@ -7,6 +7,9 @@ ENT.Category = "Развлечения"
 ENT.Spawnable = false                -- This is a base class, don't spawn it directly
 ENT.AdminOnly = false                -- Доступно всем игрокам
 
+-- Default model for medium screen and base for others
+ENT.Model = "models/hunter/plates/plate2x2.mdl"
+
 -- Настройки экрана
 ENT.ScreenWidth = 1024               -- Ширина экрана в пикселях
 ENT.ScreenHeight = 768               -- Высота экрана в пикселях

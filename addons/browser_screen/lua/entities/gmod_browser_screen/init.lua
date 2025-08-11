@@ -5,7 +5,7 @@ include("shared.lua")
 
 function ENT:Initialize()
     -- Устанавливаем модель экрана (плоская панель)
-    self:SetModel("models/hunter/plates/plate2x2.mdl")
+    self:SetModel(self.Model)
 
     -- Настраиваем физику
     self:PhysicsInit(SOLID_VPHYSICS)    -- Физическое тело
