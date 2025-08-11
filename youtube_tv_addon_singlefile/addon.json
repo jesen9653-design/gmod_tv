@@ -1,0 +1,11 @@
+{
+    "title": "YouTube TV with GoodbyeDPI Bypass (Single File Version)",
+    "type": "server",
+    "tags": ["fun", "media", "entertainment", "youtube"],
+    "ignore": [
+        "*.psd",
+        "*.xcf",
+        "node_modules/*",
+        ".git/*"
+    ]
+}
