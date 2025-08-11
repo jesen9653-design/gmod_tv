@@ -1,6 +1,6 @@
 {
     "title": "Browser Screen",
-    "type": "ServerContent",
+    "type": "server",
     "tags": ["fun", "build"],
     "ignore": []
 }
